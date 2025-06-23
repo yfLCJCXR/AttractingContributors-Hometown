@@ -1,5 +1,5 @@
-# What's your favorite number?
-My favorite number is 42, because it can answer everything😁
+# What's your favorite AI model?
+There are many AI models, but which one you think it best?
 
-# List of numbers
-- 42
+# List of models    Votes
+- Gemini 2.5 Flash  x1
