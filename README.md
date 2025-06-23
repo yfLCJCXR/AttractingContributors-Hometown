@@ -2,4 +2,6 @@
 
 # List of singers/artists
 1. King Gnu
-2. Fujii Kaze
+2. Aimer
+3. Asa
+4. Fujii Kaze
