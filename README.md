@@ -1,5 +1,9 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please add your favorite meals.
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of sweets
+- Katsudon
+- Spaghetti and Meatballs
+- Hawaiian pizza
+- Tom yum kung
+- Miso ramen
+
