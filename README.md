@@ -5,3 +5,4 @@
 - Playing games
 - Watching movies
 - Eating at a new restaurant
+- Cook
