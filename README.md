@@ -1,4 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# What is your favorite sports.
 
 # List of place
 - mamemame saisai
