@@ -2,4 +2,5 @@
 # List of Manga
 - One Piece
 - AOT
-
+- Katekyo Hitman Reborn!
+- Magi
