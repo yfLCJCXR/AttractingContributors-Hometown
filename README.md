@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favorite Manga.
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of Manga
+- One Piece
+
