@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favourite anime series.
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of anime
+- Attack on Titan
+- Your Name (Kimi no Na wa)
