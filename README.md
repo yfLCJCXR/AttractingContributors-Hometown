@@ -7,3 +7,4 @@
 4. Fujii Kaze
 5. Harucha
 6. Saito Kazuyoahi
+7. Kenshi Yonezu
