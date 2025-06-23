@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Preferred programming languages
+I'd like to know some preferred programming languages from contributors
 
-# List of place
-- mamemame saisai
-- Gusto
+## List of programming languages
+- Rust
