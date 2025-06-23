@@ -13,4 +13,4 @@ Please write your favorite number！
 - 21
 - 42
 - 9
-
+- 42
