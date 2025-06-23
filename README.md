@@ -3,6 +3,7 @@
 # List of country/prefecture
 - Japan, Nara prefecture
 - China...
+- Nigeria
 - Indonesia
 - Thailand, Nonthaburi
 - Kyoto
