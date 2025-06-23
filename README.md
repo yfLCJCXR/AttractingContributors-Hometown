@@ -4,3 +4,5 @@
 - Japan, Nara prefecture
 - China...
 - Kyoto
+- Japan, Hiroshima prefecture
+
