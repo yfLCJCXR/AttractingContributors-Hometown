@@ -8,4 +8,5 @@
 - Thailand, Nonthaburi
 - Kyoto
 - Japan, Hiroshima prefecture
+- China, Anhui
 
