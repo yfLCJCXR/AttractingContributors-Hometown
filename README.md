@@ -10,3 +10,4 @@
 - badminton
 - football
 - baseball
+- Running
