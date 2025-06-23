@@ -2,3 +2,5 @@
 
 # List of place
 - Nara
+- Wakayama, Japan
+- Ishigaki Island
