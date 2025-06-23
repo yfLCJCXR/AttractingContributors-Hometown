@@ -6,4 +6,5 @@
 - Judo
 - kyudo
 - Rifle shooting
+- formula 1
 
