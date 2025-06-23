@@ -7,4 +7,5 @@
 - Eating at a new restaurant
 - Cook
 - Jogging
+- darts
 - Sleeping
