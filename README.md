@@ -9,4 +9,5 @@
 - formula 1
 - badminton
 - football
+- Running
 
