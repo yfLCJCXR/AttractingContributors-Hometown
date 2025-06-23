@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please add your favourite singer?.
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of singers/artists
+1. 
