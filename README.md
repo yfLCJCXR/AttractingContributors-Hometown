@@ -9,3 +9,4 @@ Please write your favorite number！
 - 46
 - 7
 - 42
+- 42
