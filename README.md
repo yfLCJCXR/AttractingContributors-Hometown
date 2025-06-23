@@ -2,5 +2,5 @@
 
 # List of place
 - mokumoku
-- wairudoramenGONZO
 - Marugen
+- Junkya Tetsu
