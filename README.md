@@ -7,4 +7,5 @@
 - kyudo
 - Rifle shooting
 - formula 1
+- badminton
 
