@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favourite activities on the weekend.
+# 週末の好きなアクティビティをご記入ください。
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of activities
+- Playing games
