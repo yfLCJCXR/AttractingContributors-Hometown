@@ -4,4 +4,5 @@
 1. King Gnu
 2. Aimer
 3. Asa
-4. Harucha
+4. Fujii Kaze
+5. Harucha
