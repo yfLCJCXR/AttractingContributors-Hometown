@@ -4,3 +4,8 @@
 - Japan, Nara prefecture
 - China...
 - Nigeria
+- Indonesia
+- Thailand, Nonthaburi
+- Kyoto
+- Japan, Hiroshima prefecture
+
