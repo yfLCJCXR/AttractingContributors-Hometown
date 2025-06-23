@@ -3,3 +3,7 @@
 # List of ingredients
 - green onion
 - pumpkin
+- tofu
+- nasubi
+- tofu
+- 
