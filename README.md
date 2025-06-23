@@ -1,5 +1,6 @@
-# Please indicate your favourite places to eat near NAIST.
+# What's your favorite AI Model?
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of models
+- Gemini 2.5 Pro
+- Gemini 2.5 Flash
+- Lamma 4
