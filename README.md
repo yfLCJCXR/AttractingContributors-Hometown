@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favorite ingredients for miso soup. / 好きなみそ汁の具を教えてください．
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of ingredients
+- green onion
