@@ -2,4 +2,7 @@
 # List of Manga
 - One Piece
 - Boruto
-
+- AZIN
+- AOT
+- Katekyo Hitman Reborn!
+- Magi
