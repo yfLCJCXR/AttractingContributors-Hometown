@@ -8,3 +8,4 @@
 - Cook
 - Jogging
 - darts
+- Sleeping
