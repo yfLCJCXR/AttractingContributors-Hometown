@@ -12,4 +12,5 @@
 - Japan, Akita
 - Bangkok, Thailand
 - Tokyo, Japan
+- Rishikesh, India
 
