@@ -1,4 +1,6 @@
 # Please add your favourite singer.
 
 # List of singers/artists
-1. Asa
+1. King Gnu
+2. Aimer
+3. Asa
