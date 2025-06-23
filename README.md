@@ -4,3 +4,7 @@
 - Japan, Nara prefecture
 - China...
 - Indonesia
+- Thailand, Nonthaburi
+- Kyoto
+- Japan, Hiroshima prefecture
+
