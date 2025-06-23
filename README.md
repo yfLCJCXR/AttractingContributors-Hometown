@@ -5,3 +5,4 @@
 - 7 hours
 - 6 hours
 - 4 hours
+- 8 hours
