@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# What's your favorite number?
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of number
+
