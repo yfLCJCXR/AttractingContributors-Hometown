@@ -3,3 +3,4 @@
 # List of anime
 - Attack on Titan
 - Your Name (Kimi no Na wa)
+- Violet Evergarden
