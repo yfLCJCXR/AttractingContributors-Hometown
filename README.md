@@ -4,5 +4,5 @@ I'd like to know some preferred programming languages from contributors
 ## List of programming languages
 - Rust x2
 - Python
-- TypeScript
 - C++
+- Definitely Python
