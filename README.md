@@ -9,4 +9,5 @@
 - Kyoto
 - Japan, Hiroshima prefecture
 - China, Anhui
+- Bangkok, Thailand
 
