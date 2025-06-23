@@ -4,4 +4,6 @@
 - volleyball
 - kendo
 - Judo
+- kyudo
 - Rifle shooting
+
