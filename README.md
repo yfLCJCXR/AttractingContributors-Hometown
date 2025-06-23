@@ -1,6 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# How long do you usually sleep?
 
 # List of place
-- mamemame saisai
-- Gusto
-- tebasu
+- 8 hours
