@@ -3,3 +3,4 @@
 
 # List of activities
 - Playing games
+- darts
