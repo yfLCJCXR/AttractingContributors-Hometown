@@ -3,3 +3,4 @@
 # List of country/prefecture
 - Japan, Nara prefecture
 - China...
+- Thailand, Nonthaburi
