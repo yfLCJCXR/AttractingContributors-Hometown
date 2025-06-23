@@ -9,3 +9,4 @@
 - Jogging
 - darts
 - Sleeping
+- Watching anime
