@@ -2,4 +2,5 @@
 
 # List of place
 - mokumoku
+- wairudoramenGONZO
 - Marugen
