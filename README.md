@@ -11,4 +11,5 @@
 - China, Anhui
 - Japan, Akita
 - Bangkok, Thailand
+- Rishikesh, India
 
