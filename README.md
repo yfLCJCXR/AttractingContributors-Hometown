@@ -3,3 +3,4 @@
 # List of place
 - Okinawa
 - home
+- Nara
