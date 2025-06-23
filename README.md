@@ -5,4 +5,5 @@
 2. Aimer
 3. Asa
 4. Fujii Kaze
-5. Saito Kazuyoahi
+5. Harucha
+6. Saito Kazuyoahi
