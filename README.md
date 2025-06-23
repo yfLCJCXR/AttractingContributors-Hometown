@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# What is your favorite movie?
 
 # List of place
-- mamemame saisai
-- Gusto
+- Back to the future
