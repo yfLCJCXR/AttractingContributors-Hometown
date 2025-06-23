@@ -1,5 +1,5 @@
 # Please add your favourite singer.
 
 # List of singers/artists
-1. Aimer
-2. 
+1. King Gnu
+2. Aimer
