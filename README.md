@@ -13,4 +13,4 @@
 - Bangkok, Thailand
 - Tokyo, Japan
 - Rishikesh, India
-
+- Osaka, Japan
