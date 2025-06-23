@@ -3,3 +3,6 @@
 # List of ingredients
 - green onion
 - tofu
+- nasubi
+- tofu
+- 
