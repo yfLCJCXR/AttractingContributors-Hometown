@@ -3,3 +3,9 @@
 # List of ingredients
 - green onion
 - sea weed
+- Tofu
+- pumpkin
+- tofu
+- nasubi
+- tofu
+- 
