@@ -1,9 +1,8 @@
-# Please add your favorite meals.
+# Please add your favourite place to visit.
 
-# List of sweets
-- Katsudon
-- Spaghetti and Meatballs
-- Hawaiian pizza
-- Tom yum kung
-- Miso ramen
-
+# List of Places to Travel
+- Kyoto
+- Paris
+- Machu Picchu
+- New York City
+- Reykjavik
