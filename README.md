@@ -6,4 +6,4 @@ Please write your favorite number！
 - 28
 
 # List of number
-
+- 42
