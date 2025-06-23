@@ -2,4 +2,4 @@
 
 # List of place
 - black
-
+- gray
