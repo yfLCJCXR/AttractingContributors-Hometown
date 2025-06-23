@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Where are you from?
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of country/prefecture
+- Japan, Nara prefecture
+- China...
