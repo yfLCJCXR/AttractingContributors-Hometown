@@ -10,3 +10,4 @@
 - nara park
 - my home
 - nature
+- Indoor pool
