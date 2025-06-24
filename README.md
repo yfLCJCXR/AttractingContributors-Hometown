@@ -14,5 +14,5 @@
 - Tokyo, Japan
 - Rishikesh, India
 - Toyama
-  
+- Osaka, Japan
 
