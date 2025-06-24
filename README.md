@@ -9,4 +9,5 @@
 - Jogging
 - darts
 - Sleeping
+- Watching anime
 - YouTube
