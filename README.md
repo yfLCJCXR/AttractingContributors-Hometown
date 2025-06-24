@@ -4,4 +4,5 @@
 - HunterxHunter : Hisoka
 - Assassination Classroom: Nagisa
 - Frieren: Beyond Journey's End : Frieren
--
+- JuJutsuKaisen Hakari
+- Vagabond: Musashi
