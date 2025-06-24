@@ -14,3 +14,6 @@
 - Tokyo, Japan
 - Rishikesh, India
 - Hyogo, Japan
+- Winnipeg, Canada
+- Toyama
+- Osaka, Japan
