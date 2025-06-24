@@ -7,3 +7,4 @@
 - JuJutsuKaisen Hakari
 - Vagabond: Musashi
 -One-piece: Chopper
+- Boruto: Boruto
