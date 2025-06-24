@@ -6,4 +6,5 @@
 - Frieren: Beyond Journey's End : Frieren
 - JuJutsuKaisen Hakari
 - Vagabond: Musashi
+  
 -One-piece: Chopper
