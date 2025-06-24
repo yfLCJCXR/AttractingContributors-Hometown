@@ -10,4 +10,6 @@
 - nara park
 - my home
 - Furo
+- Indoor pool
+
 
