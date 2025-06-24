@@ -9,5 +9,7 @@
 - Disney, my dream home
 - nara park
 - my home
+- Furo
 - Indoor pool
+
 
