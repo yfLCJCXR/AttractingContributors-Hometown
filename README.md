@@ -3,5 +3,5 @@
 # List of Anime
 - HunterxHunter : Hisoka
 - Assassination Classroom: Nagisa
--
+- Frieren: Beyond Journey's End : Frieren
 -
