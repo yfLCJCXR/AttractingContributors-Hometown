@@ -12,4 +12,5 @@
 - nature
 - Indoor pool
 - Furo
+- home
 - Indoor pool
