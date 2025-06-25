@@ -6,6 +6,7 @@
 - Frieren: Beyond Journey's End : Frieren
 - JuJutsuKaisen Hakari
 - Vagabond: Musashi
-  
+- One-piece: Chopper
+- CODE GEASS Lelouch of the Rebellion: Lelouch vi Britannia
 -One-piece: Chopper
 - Girl's Last Tour
