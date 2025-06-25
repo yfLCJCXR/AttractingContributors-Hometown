@@ -8,3 +8,4 @@
 - Vagabond: Musashi
   
 -One-piece: Chopper
+- Girl's Last Tour
