@@ -5,3 +5,5 @@
 - wairudoramenGONZO
 - Marugen
 - Tori Style
+- Sampomen
+- Junkya Tetsu
