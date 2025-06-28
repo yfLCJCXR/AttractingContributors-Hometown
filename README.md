@@ -5,3 +5,7 @@
 - wairudoramenGONZO
 - Marugen
 - Ichiran
+- Tsubasa
+- Tori Style
+- Sampomen
+- Junkya Tetsu
