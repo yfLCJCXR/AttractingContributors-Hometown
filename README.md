@@ -18,3 +18,4 @@
 - Winnipeg, Canada
 - Toyama
 - Osaka, Japan
+- Nara, Japan
